@@ -1,0 +1,6 @@
+{
+  "name": "Cinecalidad - Películas 4K y 1080p",
+  "description": "Portal de películas y estrenos en alta definición 4K UHD y 1080p con audio latino, castellano y subtitulado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
